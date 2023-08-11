@@ -1,4 +1,5 @@
 public  class Hello{
 
-	private int age;
+	private int age;//年龄
+	private String name;
 }
